@@ -1,2 +1,5 @@
 
 g;lkfd:Lkgsd
+
+def foo():
+  return 123
